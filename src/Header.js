@@ -1,4 +1,4 @@
 import React from "react"
 export default function Header(){
-  return (The list of cities is);
+  return <div className="Header">The list of cities is: </div>;
 }
